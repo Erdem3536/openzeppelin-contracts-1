@@ -1,6 +1,9 @@
 ---
 name: Bug report
 about: Report a bug in OpenZeppelin Contracts
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
